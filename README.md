@@ -13,10 +13,6 @@ Clone this repository to your local machine.
 
 Run the script using Python:
 
-bash
-Copy code
-python index_of_coincidence.py
-Paste the text you want to analyze when prompted.
 
 The script will calculate and display the Index of Coincidence for the input text.
 
